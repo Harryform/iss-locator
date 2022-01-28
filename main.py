@@ -5,8 +5,8 @@ import time
 
 MY_LAT = 51.507351  # Your latitude
 MY_LONG = -0.127758  # Your longitude
-MY_EMAIL = "pythonproject862@gmail.com"
-MY_PASSWORD = "goober1!"
+MY_EMAIL = Your_email_here
+MY_PASSWORD = Your_password_here
 
 
 # retrieve api data for iss location
